@@ -50,5 +50,3 @@ USA.DE,Delaware,tCO2e per capita,1.84,1.61,1.38,1.49,1.37,1.22,1.23,1.15,1.08,1.
 USA.HI,Hawaii,tCO2e per capita,1.27,1.18,1.08,1.07,1.04,0.98,0.96,0.88,0.82,0.77,0.76,0.73,0.72,0.71,0.70,0.69,0.65,0.65,0.60,0.56,0.59,0.59,0.61,0.56,0.54,0.53,0.49,0.50,0.48,0.49,0.46
 USA.RI,Rhode Island,tCO2e per capita,1.12,1.08,1.09,0.96,1.01,1.02,0.97,0.98,1.02,0.86,0.89,0.87,0.82,0.87,0.83,0.82,0.76,0.66,0.57,0.51,0.55,0.40,0.53,0.41,0.36,0.37,0.36,0.36,0.37,0.39,0.27
 USA.DC,District of Columbia,tCO2e per capita,0.36,0.35,0.34,0.35,0.35,0.32,0.32,0.30,0.29,0.27,0.26,0.25,0.24,0.23,0.22,0.20,0.19,0.17,0.16,0.16,0.16,0.15,0.16,0.14,0.13,0.13,0.12,0.12,0.12,0.12,0.12
-Data source,US State Inventory
-Data for,Location: United States. Sectors/Subsectors: Total including LUCF. Gases: CH4. Calculation: per Capita. Show data by Subnational
