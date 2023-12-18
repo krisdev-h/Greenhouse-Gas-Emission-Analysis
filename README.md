@@ -8,7 +8,9 @@ The data is collected yearly from 1990 to 2020 for each of the 50 U.S. states pl
 ## Project Description
 Our analysis takes a look at each U.S. region (midwest, northeast, southeast, southwest, and west) and how each of our variables affects the amount of gas emissions. Our goal is to answer the question "For each greenhouse gas, is time, GDP, or population the bigger contributor to emissions across U.S. geographical regions?"
 
-We made bar charts, line charts, and scatter plots to visually explore the relationships between gases, time, GDP, and population. We also furthered our analysis with multiple linear regression, which explored the relationships between our variables.\
+We made bar charts, line charts, and scatter plots to visually explore the relationships between gases, time, GDP, and population. We also furthered our analysis with multiple linear regression, which explored the relationships between our variables.
 
-<u>Please reference our finalized pdf report for further information</u>
+<br/>
+
+**Please reference our finalized pdf report for further information**
 
